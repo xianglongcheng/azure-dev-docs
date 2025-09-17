@@ -137,7 +137,7 @@ To review required and optional parameters to pass that can affect various aspec
 
 - **`Presence Penalty`**: Encourages the model to introduce new concepts and terms in the completion. `Presence Penalty` is useful for generating more diverse and creative outputs.
 
-- **`Stop Sequences`**: You can specify one or more sequences to instruct the API to stop generating more tokens. `Store Sequences` are useful for controlling the structure of the output, such as ending a completion at the end of a sentence or paragraph.
+- **`Stop Sequences`**: You can specify one or more sequences to instruct the API to stop generating more tokens. `Stop Sequences` are useful for controlling the structure of the output, such as ending a completion at the end of a sentence or paragraph.
 
 - **`Logit Bias`**: Allows you to modify the likelihood of specified tokens appearing in the completion. `Logit Bias` can be used to guide the completion in a certain direction or to suppress specific content.
 
